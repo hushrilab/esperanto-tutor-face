@@ -2,7 +2,7 @@
 
 * Author: Cheng Tang <c225tang@uwaterloo.ca>
 
-This is a React App acting as a display for the robot's face which can be switched between two facial expressions: happy, smile, sad, blinking by publihsing command into a rostopic named /face_command_topic. 
+This is a React App acting as a display for the robot's face which can be switched between four facial expressions: happy, smile, sad, blinking by publihsing command into a rostopic named /face_command_topic. 
 
 ## Installation
 
